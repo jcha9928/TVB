@@ -67,3 +67,8 @@ The NSG branch of the pipeline also finalizes the subject-folder by removing the
 The tar-archive will be of a size less than 2GB per subject.
 </li>
 </ol>
+
+
+
+THIS CODE IS BEING OPTIMIZED FOR COLUMBIA UNIVERISTY MEDICAL CAMPUS C2B2 CLUSTER
+AUTHOR: JIOOK CHA (CHA.JIOOK@GMAIL.COM)
